@@ -4,6 +4,7 @@ Equities (stocks) Commodities Credit (debt and bonds) Currency & Emerging Market
 In order to do this, you’ll need to set up your system so you can interface with the relevant financial data feed, make the required calculations and then present this in a way that allows the traders to visualize and analyze this data in real time.  
 The visualization of charts and data analysis our trader’s see is all built on JPMorgan Chase's own open sourced software called Perspective. You’ll learn how to implement this to facilitate the trader’s requested changes and deliver actionable insights.  
 You’ll have to gain an understanding of the user requirements and then build something that meets those requirements. 
+
 1: Interface with a stock price data feed Interface with a stock price data feed and set up your system for analysis of the data Financial Data Python Git Basic Programming.  
 2: Use JPMorgan Chase frameworks and tools Implement the Perspective open source code in preparation for data visualization React Typescript Web Applications.  
 3: Display data visually for traders Use Perspective to create the chart for the trader’s dashboard Technical Communication Financial Analysis Web Applications.
